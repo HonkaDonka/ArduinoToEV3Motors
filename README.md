@@ -14,8 +14,10 @@
 
 #### This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. 
 
-![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/2a782dcc-3ad6-4d04-8da8-be50a88afc6d)
+![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/55582b80-ca6e-4576-be39-efdae227e752)
 
 #### Since the Arduino UNO R3 isn't capable of outputting voltages of 9V, we will need a separate power supply module to help us.
+
+## Schematic
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/ac15f635-e985-4ecc-8734-6a2c06debc03)
