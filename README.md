@@ -1,22 +1,22 @@
 # Using an Arduino to control LEGO EV3 Motors
 
-#### Connecting an Arduino to LEGO Motors not only allows for greater flexibility in designing but also allows for LEGO bricks to be integrated when other materials and resources aren't available.
+Connecting an Arduino to LEGO Motors not only allows for greater flexibility in designing but also allows for LEGO bricks to be integrated when other materials and resources aren't available.
 
 ## The Hardware Developer Manual
 
-#### The [LEGO website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) provides a manual that shows the functions of each pin in the RJ12 cable.
+The [LEGO website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) provides a manual that shows the functions of each pin in the RJ12 cable.
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/48acb6e1-cd50-4cc2-8897-e04f9d48eaa9)
 
-#### The pins used to control the motors are the first and second pins, where each pin determines whether the motor rotates clockwise or counterclockwise.
+The pins used to control the motors are the first and second pins, where each pin determines whether the motor rotates clockwise or counterclockwise.
 
 ## The L293D Chip
 
-#### This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. 
+This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. 
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/55582b80-ca6e-4576-be39-efdae227e752)
 
-#### Since the Arduino UNO R3 isn't capable of outputting voltages of 9V, we will need a separate power supply module to help us.
+Since the Arduino UNO R3 isn't capable of outputting voltages of 9V, we will need a separate power supply module to help us.
 
 ## Schematic
 
