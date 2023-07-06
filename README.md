@@ -10,6 +10,9 @@ The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/539109aa-d421-407c-a16e-ec4595faebaf)
 
+![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/e40ed103-40a8-44f6-8807-64e2779815cc)
+
+
 
 ### The L293D Chip
 
