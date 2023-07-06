@@ -6,7 +6,7 @@ The LEGO Mindstorms EV3 is a robotics kit that connects LEGOs to robotics. Howev
 
 ## How
 
-The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) provides a manual that shows the functions of each pin in the RJ12 cable.
+The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit){:target="_blank" rel="noopener"} provides a manual that shows the functions of each pin in the RJ12 cable.
 
 ### The L293D Chip
 
