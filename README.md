@@ -11,6 +11,7 @@ The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7275f2-7d74-4d44-a0f3-d124374ff1d6)
 
 Pins 1 and 2 are used to control which direction the motor spins. For example, if 1 was HIGH and 2 was LOW, the motor will spin in one direction. If 1 was LOW and 2 was HIGH, then it would spin in the other direction. 
+
 Pins 5 and 6 are used for the rotary encoder, which can give us information on the orientation of the motor. 
 
 ### The L293D Chip
