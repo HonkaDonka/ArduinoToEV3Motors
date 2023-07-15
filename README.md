@@ -2,7 +2,7 @@
 
 ## About
 
-The LEGO Mindstorms EV3 is a robotics kit that connects LEGOs to robotics. However, the functionality of the EV3's Brick is limited compared to the Arduino microcontrollers. However, when I switched to Arduino, I didn't have the resources to 3D print casing parts, but I had plenty of LEGO bricks lying around. This project was created to guide others in connecting their Arduinos to their EV3 motors, which would not only allow for greater functionality but also greater accessibility to those already possessing a LEGO Mindstorms kit.
+The LEGO Mindstorms EV3 is a robotics kit that blends the lines between LEGO and robotics. Although the EV3's Brick has limited functionality compared to Arduino microcontrollers, my transition to Arduino lacked the necessary resources for 3D printing casing parts. However, I had an abundance of LEGO bricks at my disposal. Thus, this project aims to assist others in integrating their Arduinos with EV3 motors. This not only enhances functionality but also promotes accessibility for those who already own a LEGO Mindstorms kit.
 
 ## How
 
