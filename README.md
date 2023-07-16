@@ -26,4 +26,7 @@ This chip is capable of driving two motors, but for this project, we will only n
 
 ### Schematic
 
-![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/ac15f635-e985-4ecc-8734-6a2c06debc03)
+This schematic includes connections to the motor and its encoder.
+
+![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7f618f-4df0-4fd0-b1e1-76a68a82ded9)
+
