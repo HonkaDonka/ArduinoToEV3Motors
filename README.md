@@ -16,7 +16,9 @@ Pins 5 and 6 are used for the rotary encoder, which can give us information on t
 
 ### The L293D Chip
 
-This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. [This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. 
+This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors.
+
+[This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. 
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/7980f1d7-6336-4dcd-92a4-360ae3bbc679)
 
