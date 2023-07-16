@@ -16,11 +16,11 @@ Pins 5 and 6 are used for the rotary encoder, which can give us information on t
 
 ### The L293D Chip
 
-This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. 
+This chip will be used to drive the EV3 motors, as it can drive voltages of up to 36V. However, we only need 9V for the EV3 motors. [This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. 
 
-![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/55582b80-ca6e-4576-be39-efdae227e752)
+![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/7980f1d7-6336-4dcd-92a4-360ae3bbc679)
 
-Since the Arduino UNO R3 isn't capable of outputting voltages of 9V, we will need a separate power supply module to help us.
+This chip is capable of driving two motors, but for this project, we will only need to use one side of the L293D since we are just connecting to a singular motor.
 
 ### Schematic
 
