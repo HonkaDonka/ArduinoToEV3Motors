@@ -6,6 +6,8 @@ The LEGO Mindstorms EV3 is a robotics kit that blends the lines between LEGO and
 
 ## How
 
+### Hardware Developer Manual
+
 The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) includes a hardware developer manual that shows the pinout of the RJ12 cables that the EV3 utilizes. 
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7275f2-7d74-4d44-a0f3-d124374ff1d6)
@@ -23,6 +25,10 @@ This chip will be used to drive the EV3 motors, as it can drive voltages of up t
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/7980f1d7-6336-4dcd-92a4-360ae3bbc679)
 
 This chip is capable of driving two motors, but for this project, we will only need to use one side of the L293D since we are just connecting to a singular motor.
+
+### External Power Source
+
+Since the Arduino isn't capable of outputting 9V, an external power source is also needed. When assembling the project, make sure the grounds of the power source and the Arduino are connected together or else it may not function properly. 
 
 ### Schematic
 
