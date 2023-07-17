@@ -37,3 +37,5 @@ This schematic includes connections to the motor and its encoder.
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7f618f-4df0-4fd0-b1e1-76a68a82ded9)
 
 ## Steps
+
+We can wire the motor to the L293D chip just like with a normal motor. Pins 1 and 2 on the motor go to output 1 and 2 on the L293D. The input pins along with the enable should connect to the Arduino. In my example code I have them connected to pins 3, 4 and 5.
