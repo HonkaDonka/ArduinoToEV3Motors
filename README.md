@@ -30,13 +30,10 @@ This chip is capable of driving two motors, but for this project, we will only n
 
 Since the Arduino isn't capable of outputting 9V, an external power source is also needed. When assembling the project, make sure the grounds of the power source and the Arduino are connected together or else it may not function properly. 
 
-## Steps
-
-
-
 ### Schematic
 
 This schematic includes connections to the motor and its encoder.
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7f618f-4df0-4fd0-b1e1-76a68a82ded9)
 
+## Steps
