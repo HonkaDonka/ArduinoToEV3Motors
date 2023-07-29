@@ -38,7 +38,15 @@ This schematic includes connections to the motor and its encoder.
 
 ## Steps
 
+### Movement
+
+First, connect the power source to the L293D chip. The large motors need a lot of power, so connecting the Arduino directly to the L293D will likely fry the board.
+
 We can wire the motor to the L293D chip just like with a normal motor. Pins 1 and 2 on the motor map to output 1 and 2 on the L293D. The L293D's input 1 and 2 pins along with its enable pin should connect to the Arduino. In my example code and schematic, I have them connected to pins 3, 4, and 5.
+
+The output 1 and 2 pins from the chip can then be wired to pins 1 and 2 on the EV3 motor.
+
+### Motor Encoder
 
 ## Resources
 
