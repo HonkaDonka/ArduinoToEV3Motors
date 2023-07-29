@@ -18,11 +18,9 @@ Pins 5 and 6 are used for the rotary encoder, which provides information on the 
 
 ### The L293D Chip
 
-[This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. 
+[This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. We will be using this chip to power the motor.
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/7980f1d7-6336-4dcd-92a4-360ae3bbc679)
-
-This chip is capable of driving two motors, but for this project, we will only need to use one side of the L293D since we are just connecting to a singular motor.
 
 ### External Power Source
 
