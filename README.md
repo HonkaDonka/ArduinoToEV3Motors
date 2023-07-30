@@ -34,8 +34,6 @@ Attached is a schematic that includes connections to the motor and its encoder.
 
 ![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/1a7a8331-0873-466c-8d08-16651d8121b0)
 
-![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/6b768ca5-479e-4530-9624-c356cc535e28)
-
 ### Steps
 
 Before we begin, connect the power source to the L293D chip. The large motors need a lot of power, so connecting the Arduino directly to the L293D will likely fry the board.
