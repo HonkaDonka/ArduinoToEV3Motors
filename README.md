@@ -18,13 +18,13 @@ Pins 5 and 6 are used for the rotary encoder, which provides information on the 
 
 #### The L293D Chip
 
-[This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions. We will be using this chip to power the motor.
+This chip will be used to drive the motor. [This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions.
 
-![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/7980f1d7-6336-4dcd-92a4-360ae3bbc679)
+![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/86a0005e-cda4-4235-ac38-0c36f473d3b5)
 
 #### An External Power Source
 
-Since the Arduino isn't capable of outputting 9V, an external power source is also needed. When assembling the project, make sure the grounds of the power source and the Arduino are connected together or else it may not function properly. 
+Connecting the motors directly to the Arduino is not recommended as they will pull too much power from the board, damaging the Arduino. Another thing to note is that when assembling the project, make sure the grounds of the power source and the Arduino are connected together. 
 
 #### Schematic
 
