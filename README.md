@@ -14,11 +14,11 @@ The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources
 
 Pins 1 and 2 function as motor direction control similar to a standard servo. For instance, setting pin 1 to HIGH and pin 2 to LOW makes the motor spin in one direction, while setting pin 1 to LOW and pin 2 to HIGH causes it to spin in the opposite direction.
 
-Pins 5 and 6 are used for the rotary encoder, which provides information on the orientation of the motor. This lets us be able to tell the motor to move to a specific position if necessary.
+Pins 5 and 6 are used for the rotary encoder, which provides information on the orientation of the motor.
 
 #### The L293D Chip
 
-This chip will be used to drive the motor. [This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how this motor driver functions.
+This chip will be used to drive the motor. [This link](https://www.robotix.in/tutorial/auto/motor_driver/) provides a great explanation of how it works and how to use it.
 
 ![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/86a0005e-cda4-4235-ac38-0c36f473d3b5)
 
