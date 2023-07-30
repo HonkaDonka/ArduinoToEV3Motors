@@ -1,8 +1,8 @@
-# Using an Arduino to control LEGO EV3 Motors
-
-## About
+# About
 
 The LEGO Mindstorms EV3 is a robotics kit that blends the lines between LEGO and robotics. Although the EV3's Brick has limited functionality compared to Arduino microcontrollers, my transition to Arduino lacked the necessary resources for 3D printing casing parts. However, I had an abundance of LEGO bricks at my disposal. Thus, this project aims to assist others in integrating their Arduinos with EV3 motors. This not only enhances functionality but also promotes accessibility for those who already own a LEGO Mindstorms kit.
+
+## Using an Arduino to control LEGO EV3 Motors
 
 ## How
 
