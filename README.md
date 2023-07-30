@@ -44,8 +44,7 @@ The output 1 and 2 pins from the chip can then be wired to pins 1 and 2 on the E
 
 ### Testing
 
-The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor. The code provided is written via Platform.IO.
-
+The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor.
 ## Using an Arduino to read LEGO EV3 Sensors
 
 WIP.
