@@ -32,7 +32,7 @@ Connecting the motors directly to the Arduino is not recommended as they will pu
 
 Attached is a schematic that includes connections to the motor and its encoder.
 
-![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7f618f-4df0-4fd0-b1e1-76a68a82ded9)
+![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/1a7a8331-0873-466c-8d08-16651d8121b0)
 
 ### Steps
 
