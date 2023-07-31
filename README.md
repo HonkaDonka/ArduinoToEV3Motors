@@ -1,4 +1,4 @@
-All code was programmed using Platform.IO in VSCode, but they should work fine in other IDEs.
+The code provided was developed using Platform.IO in VSCode, but it should function properly in alternative IDEs.
 
 # About
 
@@ -14,7 +14,9 @@ The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7275f2-7d74-4d44-a0f3-d124374ff1d6)
 
-Pins 1 and 2 function as motor direction control similar to a standard servo. For instance, setting pin 1 to HIGH and pin 2 to LOW makes the motor spin in one direction, while setting pin 1 to LOW and pin 2 to HIGH causes it to spin in the opposite direction.
+Pins 1 and 2 function as motor direction control. Below is the truth table for the motor.
+
+![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/821b1b66-9a32-48e6-a14d-7de7292f7295)
 
 Pins 5 and 6 are used for the rotary encoder, which provides information on the orientation of the motor.
 
