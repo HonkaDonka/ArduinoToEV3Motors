@@ -46,13 +46,17 @@ Before we begin, connect the power source to the L293D chip. The large motors ne
 
 We can wire the motor to the L293D chip just like with a normal motor. Pins 1 and 2 on the motor map to output 1 and 2 on the L293D. The L293D's input 1 and 2 pins along with its enable pin should connect to the Arduino. In my example code and schematic, I have the L293 enable and input pins connected to pins 3, 4, and 5 on the Arduino.
 
-![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/79a5f14d-2831-4bcf-8d1a-417106cc5ab2)
-
 The output 1 and 2 pins from the chip can then be wired to pins 1 and 2 on the EV3 motor. Pins 5 and 6 from the motor can be wired directly to the GPIO pins on the Arduino.
+
+![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/b32626fb-a5ae-4251-b52c-a6435df04c54)
 
 ### Testing
 
-The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor.
+The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor. 
+
+[Movement Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3MovementTest.cpp)
+[Rotary Encoder Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3RotaryTest.cpp)
+
 ## Using an Arduino to read LEGO EV3 Sensors
 
 WIP.
