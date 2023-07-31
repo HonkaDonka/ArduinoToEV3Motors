@@ -55,6 +55,7 @@ The output 1 and 2 pins from the chip can then be wired to pins 1 and 2 on the E
 The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor. 
 
 [Movement Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3MovementTest.cpp)
+
 [Rotary Encoder Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3RotaryTest.cpp)
 
 ## Using an Arduino to read LEGO EV3 Sensors
