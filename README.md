@@ -57,6 +57,3 @@ The program files provided above can be used to test the movement of the motors 
 [Movement Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3MovementTest.cpp)
 
 [Rotary Encoder Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3RotaryTest.cpp)
-
-## Resources
-
