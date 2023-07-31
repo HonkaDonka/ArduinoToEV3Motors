@@ -58,9 +58,5 @@ The program files provided above can be used to test the movement of the motors 
 
 [Rotary Encoder Test](https://github.com/HonkaDonka/ArduinoToLEGO/blob/main/EV3RotaryTest.cpp)
 
-## Using an Arduino to read LEGO EV3 Sensors
-
-WIP.
-
 ## Resources
 
