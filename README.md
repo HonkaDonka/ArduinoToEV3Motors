@@ -16,7 +16,7 @@ The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources
 
 Pins 1 and 2 function as motor direction control. Below is the truth table for the motor.
 
-![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/821b1b66-9a32-48e6-a14d-7de7292f7295)
+![63cc0c8f9c5544ccabb5504b226c6aab](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/022e474f-f318-4f41-b05e-236eb0537fb0)
 
 Pins 5 and 6 are used for the rotary encoder, which provides information on the orientation of the motor.
 
