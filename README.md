@@ -48,6 +48,8 @@ We can wire the motor to the L293D chip just like with a normal motor. Pins 1 an
 
 The output 1 and 2 pins from the chip can then be wired to pins 1 and 2 on the EV3 motor. Pins 5 and 6 from the motor can be wired directly to the GPIO pins on the Arduino.
 
+![image](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/79a5f14d-2831-4bcf-8d1a-417106cc5ab2)
+
 ### Testing
 
 The program files provided above can be used to test the movement of the motors as well as the encoder that is built into the motor.
