@@ -10,11 +10,15 @@ The LEGO Mindstorms EV3 is a robotics kit that blends the lines between LEGO and
 
 #### Hardware Developer Manual
 
-The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) includes a hardware developer manual that shows the pinout of the motors and sensors of the EV3. Below is the pinout provided for the EV3 motors.
+The [LEGO Mindstorms website](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/developer-kits#ev3-hardware-developer-kit) includes a hardware developer manual that shows the pinout of the motors and sensors of the EV3. 
+
+Below is the pinout provided for the EV3 motors.
 
 ![image](https://github.com/VinsonOi/ArduinoToLEGO/assets/30189257/bc7275f2-7d74-4d44-a0f3-d124374ff1d6)
 
-Pins 1 and 2 function as motor direction control. Below is the truth table for the motor.
+Pins 1 and 2 function as motor direction control. 
+
+Below is the truth table for the motor.
 
 ![63cc0c8f9c5544ccabb5504b226c6aab](https://github.com/HonkaDonka/ArduinoToLEGO/assets/30189257/022e474f-f318-4f41-b05e-236eb0537fb0)
 
