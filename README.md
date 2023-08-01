@@ -1,4 +1,4 @@
-The code provided was developed using Platform.IO in VSCode, but it should function properly in alternative IDEs.
+The code provided was developed using PlatformIO in VSCode, but it should function properly in alternative IDEs.
 
 # About
 
